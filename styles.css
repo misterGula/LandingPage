@@ -45,3 +45,32 @@ nav{
 .menu_bar a:hover{
 	color: #fcdc45;
 }
+
+
+/*home styles*/
+
+
+
+
+main{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.home{
+	text-align: center;
+	background: #000;
+	color: #fff;
+	padding:  220px 0 25px 0;
+}
+span{
+	color: #fcdc45;
+}
+.home h1{
+	font-size: 36px;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+.home p{
+	padding-bottom: 425px;
+}
