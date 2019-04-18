@@ -179,3 +179,18 @@ span{
 	text-align: center;
 	margin: 100px auto;
 }
+
+/*testimonials styles*/
+
+.testimonials{
+	background: #000;
+	color: #fff;
+}
+.toppart{
+	margin: 120px 25% 0 25%;
+	text-align: center;
+}
+.bottompart{
+	margin: 25px 0 75px 0;
+	text-align: center;
+}
