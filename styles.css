@@ -170,4 +170,12 @@ span{
 	margin-left: 30px;
 
 }
+/*our work styles*/
 
+.our_work p{
+	padding: 60px 180px;
+}
+.gallery{
+	text-align: center;
+	margin: 100px auto;
+}
